@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Malak Yasser Elsherbiny! 👋
 
-<!--
-**malakelsherbinyyn25-hue/malakelsherbinyyn25-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **AI Engineering Student | Robotics Specialization**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm an Artificial Intelligence student interested in building intelligent systems and solving real-world problems through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* 🎓 Studying Artificial Intelligence Engineering with a focus on Robotics.
+* 🤖 Interested in Artificial Intelligence, Machine Learning, and Robotics.
+* 👁️ Exploring Computer Vision and Deep Learning.
+* 💻 Learning by building projects and improving my programming skills.
+* 🚀 Always curious to learn new technologies and develop practical solutions.
+
+## 🛠️ Technical Interests
+
+* Python
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Robotics
+* Data Analysis
+
+## 📚 Currently Learning
+
+I'm continuously developing my skills in AI, programming, and intelligent systems through coursework and hands-on projects.
+
+## 🤝 Let's Connect
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/malak-yasser-ai/)
+* 🐙 [GitHub](https://github.com/malakelsherbinyyn25-hue)
+
+---
+
+⭐ Thanks for visiting my profile!
